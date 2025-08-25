@@ -1,9 +1,8 @@
+Copyright(C) DanngDev 2025 — *EggSplosives*
 
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Copyright(C) DanngDev 2025
-
-![CC BY-NC-SA 4.0 License](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **Canonical URL:** [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 **Legal Code (Plaintext):** [https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)
@@ -21,30 +20,22 @@ The licensor (*DanngDev*) cannot revoke these freedoms as long as you follow the
 
 ## Under the following terms:
 
-- ![BY](https://licensebuttons.net/l/by/3.0/22x22.png) **Attribution (BY)** — You must give appropriate credit, provide a link to the license,  
-  and indicate if changes were made. You may do so in any reasonable manner,  
-  but not in any way that suggests the licensor endorses you or your use.  
+- ![BY Icon](https://creativecommons.org/downloads/badges/by.svg) **Attribution (BY)** — You must give appropriate credit, provide a link to the license,  
+  and indicate if changes were made. Do not portray the licensor as endorsing you or your use.
 
-- ![NC](https://licensebuttons.net/l/nc/3.0/22x22.png) **NonCommercial (NC)** — You may not use the material for commercial purposes.  
-  “NonCommercial” means not primarily intended for or directed towards  
-  commercial advantage or monetary compensation.  
+- ![NC Icon](https://creativecommons.org/downloads/badges/nc.svg) **NonCommercial (NC)** — Use is not permitted for commercial purposes, **except for Minecraft servers**, which are explicitly allowed to use this work commercially.
 
-- ![SA](https://licensebuttons.net/l/sa/3.0/22x22.png) **ShareAlike (SA)** — If you remix, transform, or build upon the material,  
-  you must distribute your contributions under the same license as the original.  
+- ![SA Icon](https://creativecommons.org/downloads/badges/sa.svg) **ShareAlike (SA)** — If you adapt the material, you must distribute your contributions under the same license as the original.
 
-- **No additional restrictions** — You may not apply legal terms or technological measures  
-  that legally restrict others from doing anything the license permits.  
+- **No additional restrictions** — You may not impose legal or technical measures that restrict others from doing anything the license permits.
 
 ---
 
 ## Notices:
 
-- You do not have to comply with the license for elements of the material in the public domain  
-  or where your use is permitted by an applicable exception or limitation.  
+- You are not required to comply with the license for material in the public domain or where your use is allowed under relevant exceptions or limitations.
 
-- No warranties are given. The license may not give you all of the permissions necessary  
-  for your intended use. For example, other rights such as publicity, privacy, or moral rights  
-  may limit how you use the material.  
+- No warranties are provided. The license may not grant all permissions necessary for your intended use—other rights (e.g., publicity, privacy, moral rights) may still apply.
 
 ---
 
