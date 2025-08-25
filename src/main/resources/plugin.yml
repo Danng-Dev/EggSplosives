@@ -1,0 +1,8 @@
+name: EggSplosives
+version: '1.0'
+main: top.archiem.plugins.eggSplosives.EggSplosives
+api-version: '1.21'
+prefix: TEST
+authors: [ DanngDev ]
+description: Join Message Plus Beta
+website: archiem.top
